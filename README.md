@@ -1,3 +1,3 @@
 # MY Portfolio
 
-visit https:rahulkesharwani.study
+visit https://rahulkesharwani.study
